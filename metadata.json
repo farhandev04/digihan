@@ -1,0 +1,6 @@
+{
+  "name": "Jasa Pembuatan Website & Portfolio",
+  "description": "Satu halaman website portfolio profesional untuk Digihan Penyedia Jasa Pembuatan Website dengan tema gelap modern, bento grid layout, dan integrasi WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
