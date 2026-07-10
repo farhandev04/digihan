@@ -45,7 +45,7 @@ export default function Footer({ onChangeTab }: FooterProps) {
             <h4 className="font-extrabold text-slate-900 tracking-wider uppercase font-mono text-[10px]">Hubungi Kami</h4>
             <div className="flex flex-col gap-3 text-slate-600 font-medium">
               <a href="mailto:farhandev04@gmail.com" className="flex items-center gap-2 hover:text-emerald-600 transition-colors"><Mail className="h-4 w-4 text-emerald-600" /> farhandev04@gmail.com</a>
-              <a href="https://wa.me/6281272319594?text=Halo%20Digihan,%20saya%20mau%20tanya-tanya%20mengenai%20jasa%20pembuatan%20website" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-emerald-600 transition-colors"><MessageCircle className="h-4 w-4 text-emerald-600" /> +62 812-7231-9594 (WhatsApp)</a>
+              <a href="https://wa.me/6282318736775?text=Halo%20Digihan,%20saya%20mau%20tanya-tanya%20mengenai%20jasa%20pembuatan%20website" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-emerald-600 transition-colors"><MessageCircle className="h-4 w-4 text-emerald-600" /> +62 823-1873-6775 (WhatsApp)</a>
               <span className="flex items-center gap-2"><MapPin className="h-4 w-4 text-emerald-600" /> Jakarta, Indonesia</span>
             </div>
 
