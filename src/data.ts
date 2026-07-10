@@ -83,7 +83,7 @@ export const PROJECT_PACKAGES: ProjectPackage[] = [
     target: "Instansi, Startup & Perusahaan Menengah",
     priceOriginal: 3000000,
     pricePromo: 2000000,
-    discountBadge: "Diskon 33,33%",
+    discountBadge: "Diskon 33,3%",
     imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=600",
     features: [
       "5 - 7 Halaman Formal",
@@ -125,7 +125,7 @@ export const WORKFLOW_STEPS: WorkflowStep[] = [
   },
   {
     stepNumber: 2,
-    title: "Proses Gaskeun",
+    title: "DP 50% & Mulai Project",
     description: "Website impian Anda mulai kami kembangkan menggunakan teknologi modern, dipastikan super cepat dan responsif.",
     iconName: "Cpu"
   },

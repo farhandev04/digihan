@@ -142,8 +142,7 @@ export default function BentoGrid({ onOpenDemo }: BentoGridProps) {
                         <span className="font-display text-3xl font-extrabold text-slate-900">
                           {formatRupiah(pkg.pricePromo)}
                         </span>
-                        <span className="font-sans text-xs text-slate-700 font-bold">/bersih</span>
-                      </div>
+                        </div>
                     </div>
 
                     {/* Divider */}
