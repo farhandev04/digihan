@@ -1,6 +1,6 @@
 import { ProjectPackage, WorkflowStep, GuaranteeItem } from './types';
 
-export const PHONE_NUMBER = "6281272319594"; // WhatsApp Contact Number
+export const PHONE_NUMBER = "6282318736775"; // WhatsApp Contact Number
 
 export const PROJECT_PACKAGES: ProjectPackage[] = [
   {
