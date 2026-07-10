@@ -72,7 +72,6 @@ export default function Footer({ onChangeTab }: FooterProps) {
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-[11px] text-slate-700 flex items-center gap-1.5 font-medium">
             <span>Digihan © 2026. Made with</span>
-            <Heart className="h-3.5 w-3.5 text-red-500 fill-red-500 animate-pulse" />
             <span>in Jakarta, Indonesia.</span>
           </p>
 
