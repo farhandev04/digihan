@@ -10,7 +10,7 @@ export const PROJECT_PACKAGES: ProjectPackage[] = [
     priceOriginal: 2000000,
     pricePromo: 999000,
     discountBadge: "Diskon 50%",
-    imageUrl: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=600",
+    imageUrl: "https://images.unsplash.com/photo-1751725154557-b10ab73f1564?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     features: [
       "1 Halaman Landing Page Premium",
       "Katalog Produk (Maksimal 15 Item)",
