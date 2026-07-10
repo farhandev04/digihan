@@ -71,7 +71,7 @@ export default function Footer({ onChangeTab }: FooterProps) {
         {/* Footer Base Copy */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-[11px] text-slate-700 flex items-center gap-1.5 font-medium">
-            <span>Digihan © 2026. Made with</span>
+            <span>Digihan © 2026. Made with me</span>
             <span>in Jakarta, Indonesia.</span>
           </p>
 
