@@ -38,7 +38,7 @@ export default function Navbar({ activeTab, onChangeTab }: NavbarProps) {
             onClick={() => handleTabChange('home')}
             id="nav-logo"
           >
-            <img src="/logo.png" alt="Logo Digihan" width="32" height="32" className="h-8 w-auto mr-2" />
+            <img src="/logo.png" alt="Logo Digihan" width="50" height="50" className="h-8 w-auto mr-2" />
             <span className="font-display text-xl font-extrabold tracking-tight text-slate-900">
               Digi<span className="bg-gradient-to-r from-emerald-600 to-cyan-600 bg-clip-text text-transparent">han</span>
             </span>
