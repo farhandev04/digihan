@@ -19,7 +19,7 @@ export const PROJECT_PACKAGES: ProjectPackage[] = [
       "Desain 100% Mobile Friendly & Responsif"
     ],
     whatsAppName: "Paket Website UMKM",
-    demoUrl: "https://umkm-digihan.vercel.app/",
+    demoUrl: "https://umkm.digihan.my.id/",
     demoContent: {
       title: "Warung Kopi Nusantara",
       subtitle: "Cita Rasa Kopi Asli Indonesia, Dipanggang Segar & Diseduh dengan Cinta.",
@@ -56,7 +56,7 @@ export const PROJECT_PACKAGES: ProjectPackage[] = [
       "Mobile Friendly & Desain Eksklusif"
     ],
     whatsAppName: "Paket Website Bisnis",
-    demoUrl: "https://tkbimba-digihan.vercel.app/",
+    demoUrl: "https://tkbimba.digihan.my.id/",
     demoContent: {
       title: "DentalCare Center",
       subtitle: "Senyum Cemerlang, Gigi Sehat. Pelayanan Dokter Gigi Spesialis Profesional & Ramah.",
@@ -94,7 +94,7 @@ export const PROJECT_PACKAGES: ProjectPackage[] = [
       "Terintegrasi Dengan Backend standart"
     ],
     whatsAppName: "Paket Company Profile",
-    demoUrl: "https://company-digihan.vercel.app/",
+    demoUrl: "https://company.digihan.my.id/",
     demoContent: {
       title: "PT Nusantara Energi Mandiri",
       subtitle: "Menyediakan Solusi Energi Terbarukan yang Berkelanjutan untuk Masa Depan Industri Indonesia.",
