@@ -67,11 +67,11 @@ export default function BentoGrid({ onOpenDemo }: BentoGridProps) {
             // Build direct WhatsApp message
             let rawText = "";
             if (pkg.id === "umkm") {
-              rawText = "Halo Digihan, saya tertarik pesan Paket Website UMKM yang harga 499rb";
+              rawText = "Halo Digihan, saya tertarik pesan Paket Website UMKM yang harga 750rb";
             } else if (pkg.id === "bisnis") {
-              rawText = "Halo Digihan, saya tertarik pesan Paket Website Bisnis yang harga 999rb";
+              rawText = "Halo Digihan, saya tertarik pesan Paket Website Bisnis yang harga 1,000Jt";
             } else if (pkg.id === "company") {
-              rawText = "Halo Digihan, saya tertarik pesan Paket Company Profile yang harga 1,499jt";
+              rawText = "Halo Digihan, saya tertarik pesan Paket Company Profile yang harga 2,500jt";
             } else {
               rawText = `Halo Digihan, saya tertarik memesan *${pkg.name}* seharga *${formatRupiah(pkg.pricePromo)}*. Bagaimanakah alur pengerjaan dan data apa saja yang perlu saya siapkan?`;
             }

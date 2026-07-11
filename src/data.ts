@@ -5,20 +5,21 @@ export const PHONE_NUMBER = "6282318736775"; // WhatsApp Contact Number
 export const PROJECT_PACKAGES: ProjectPackage[] = [
   {
     id: "umkm",
-    name: "Paket Website UMKM",
+    name: "Paket Landing Page",
     target: "UMKM & Toko Online Pemula",
-    priceOriginal: 2000000,
-    pricePromo: 999000,
+    priceOriginal: 1500000,
+    pricePromo: 750000,
     discountBadge: "Diskon 50%",
     imageUrl: "https://images.unsplash.com/photo-1751725154557-b10ab73f1564?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     features: [
       "1 Halaman Landing Page Premium",
-      "Katalog Produk (Maksimal 15 Item)",
-      "Integrasi Tombol Order WhatsApp Langsung",
+      "Integrasi Tombol Order WhatsApp",
       "Sematkan Google Maps Lokasi Toko",
-      "Desain 100% Mobile Friendly & Responsif"
+      "Mobile Friendly & Responsif",
+      "Menggunakan domain .com (gratis 1 thn)",
+      "Maksimal revisi 3x"
     ],
-    whatsAppName: "Paket Website UMKM",
+    whatsAppName: "Paket Landing Page",
     demoUrl: "https://umkm.digihan.my.id/",
     demoContent: {
       title: "Warung Kopi Nusantara",
@@ -41,22 +42,22 @@ export const PROJECT_PACKAGES: ProjectPackage[] = [
   },
   {
     id: "bisnis",
-    name: "Paket Website Bisnis",
-    target: "Bisnis Lokal, Klinik & Jasa Profesional",
-    priceOriginal: 2500000,
-    pricePromo: 1500000,
-    discountBadge: "Diskon 40%",
+    name: "Website Company Profile",
+    target: "Bisnis Lokal, Travel & Jasa Profesional",
+    priceOriginal: 2000000,
+    pricePromo: 1000000,
+    discountBadge: "Diskon 50%",
     imageUrl: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=600",
     features: [
+      "Semua Fitur Landing page",
       "3 - 5 Halaman",
       "Galeri Portfolio / Jasa",
-      "Formulir Booking Online Interaktif",
       "Fitur Testimoni Pelanggan",
-      "Konfigurasi SEO Dasar",
-      "Mobile Friendly & Desain Eksklusif"
+      "Konfigurasi SEO Dasar (Mudah ditemukan di google)",
+      "maksimal revisi 5x"
     ],
-    whatsAppName: "Paket Website Bisnis",
-    demoUrl: "https://tkbimba.digihan.my.id/",
+    whatsAppName: "Paket Company Profile",
+    demoUrl: "https://company.digihan.my.id/",
     demoContent: {
       title: "DentalCare Center",
       subtitle: "Senyum Cemerlang, Gigi Sehat. Pelayanan Dokter Gigi Spesialis Profesional & Ramah.",
@@ -79,22 +80,23 @@ export const PROJECT_PACKAGES: ProjectPackage[] = [
   },
   {
     id: "company",
-    name: "Paket Company Profile",
+    name: "Paket Bisnis & Booking",
     target: "Instansi, Startup & Perusahaan Menengah",
-    priceOriginal: 3000000,
-    pricePromo: 2000000,
-    discountBadge: "Diskon 33,3%",
+    priceOriginal: 5000000,
+    pricePromo: 2500000,
+    discountBadge: "Diskon 50%",
     imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=600",
     features: [
-      "5 - 7 Halaman Formal",
+      "Semua Fitur Company Profile",
       "Halaman Visi Misi",
-      "Fitur Download PDF / Company Profile",
+      "Company Profile",
       "Akses Email Profesional Perusahaan (nama@bisnis.com)",
       "SSL & Speed Optimization (Lighthouse Score 90+)",
-      "Terintegrasi Dengan Backend standart"
+      "Terintegrasi Dengan Backend standart",
+      "Formulir Booking Online Interaktif",
     ],
     whatsAppName: "Paket Company Profile",
-    demoUrl: "https://company.digihan.my.id/",
+    demoUrl: "https://tkbimba.digihan.my.id/",
     demoContent: {
       title: "PT Nusantara Energi Mandiri",
       subtitle: "Menyediakan Solusi Energi Terbarukan yang Berkelanjutan untuk Masa Depan Industri Indonesia.",
