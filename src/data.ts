@@ -54,7 +54,7 @@ export const PROJECT_PACKAGES: ProjectPackage[] = [
       "Galeri Portfolio / Jasa",
       "Fitur Testimoni Pelanggan",
       "Konfigurasi SEO Dasar (Mudah ditemukan di google)",
-      "maksimal revisi 5x"
+      "Maksimal revisi 5x"
     ],
     whatsAppName: "Paket Company Profile",
     demoUrl: "https://company.digihan.my.id/",
@@ -91,9 +91,9 @@ export const PROJECT_PACKAGES: ProjectPackage[] = [
       "Halaman Visi Misi",
       "Company Profile",
       "Akses Email Profesional Perusahaan (nama@bisnis.com)",
-      "SSL & Speed Optimization (Lighthouse Score 90+)",
-      "Terintegrasi Dengan Backend standart",
       "Formulir Booking Online Interaktif",
+      "SSL & Speed Optimization (Lighthouse Score 90+)",
+      "Terintegrasi Dengan Backend standart"
     ],
     whatsAppName: "Paket Company Profile",
     demoUrl: "https://tkbimba.digihan.my.id/",
