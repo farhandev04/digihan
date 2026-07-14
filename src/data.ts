@@ -20,7 +20,7 @@ export const PROJECT_PACKAGES: ProjectPackage[] = [
       "Maksimal revisi 3x"
     ],
     whatsAppName: "Paket Landing Page",
-    demoUrl: "https://umkm.digihan.my.id/",
+    demoUrl: "https://landingpage.digihan.my.id/",
     demoContent: {
       title: "Warung Kopi Nusantara",
       subtitle: "Cita Rasa Kopi Asli Indonesia, Dipanggang Segar & Diseduh dengan Cinta.",
