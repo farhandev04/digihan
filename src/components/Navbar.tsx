@@ -39,7 +39,7 @@ export default function Navbar({ activeTab, onChangeTab }: NavbarProps) {
             id="nav-logo"
           >
             <img src="/logo.png" alt="Logo Digihan"className="h-10 w-10 object-contain mr-1" />
-            <span className="font-display text-xl font-extrabold tracking-tight text-slate-900">
+            <span style={{fontFamily:"'Bree Serif',serif"}} className="font-display text-xl font-extrabold tracking-tight text-slate-900">
               Digihan
               {/* <span className="bg-gradient-to-r from-emerald-600 to-cyan-600 bg-clip-text text-transparent">han</span> */}
             </span>
