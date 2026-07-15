@@ -20,9 +20,10 @@ export default function Footer({ onChangeTab }: FooterProps) {
           <div className="md:col-span-5 space-y-4">
             <div className="flex items-center cursor-pointer group" onClick={() => { onChangeTab('home'); handleScrollToTop(); }}>
               <img src="/logo.png" alt="Logo Digihan" width="32" height="32" loading="lazy" className="h-8 w-auto mr-2" />
-              <span className="font-display text-lg font-bold tracking-tight text-slate-900">
-                Digi<span className="bg-gradient-to-r from-emerald-600 to-cyan-600 bg-clip-text text-transparent">han</span>
-              </span>
+              <span style={{fontFamily:"'Bree Serif',serif"}} className="font-display text-xl font-medium tracking-tight text-slate-900">
+              Digihan
+              {/* <span className="bg-gradient-to-r from-emerald-600 to-cyan-600 bg-clip-text text-transparent">han</span> */}
+            </span>
             </div>
             <p className="text-xs text-slate-700 max-w-sm leading-relaxed font-medium">
               Mitra digital terpercaya untuk mewujudkan website premium, handal, berkecepatan tinggi, dan 100% responsif demi kemajuan UMKM dan bisnis Anda di Indonesia.
